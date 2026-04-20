@@ -1,0 +1,16 @@
+torch>=1.13.0
+torchvision>=0.14.0
+matplotlib
+numpy
+opencv_python_headless
+pandas
+Pillow
+scikit_image
+scikit_learn
+scipy
+tabulate
+tqdm
+ptflops
+timm
+tensorboard
+tensorboardX
